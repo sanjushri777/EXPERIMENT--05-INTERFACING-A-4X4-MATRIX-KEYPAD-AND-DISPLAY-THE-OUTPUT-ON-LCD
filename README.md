@@ -1,17 +1,4 @@
-question-ai-logo
-managemanage
-managemanage
-useruser
-fullfull
-closeclose
-Chat AI
-Hello! Is there any question I can help you with?
-Which iconic American landmark is located in South Dakota and features the faces of four U.S. presidents?
-What is the national bird of the United States?
-Ask AI
 
-logo
-more
 # EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
 
 ## Aim: 
